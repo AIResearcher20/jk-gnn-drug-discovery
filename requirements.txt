@@ -1,8 +1,5 @@
 torch
 torch-geometric
-rdkit-pypi
 numpy
 pandas
 scikit-learn
-tqdm
-matplotlib
