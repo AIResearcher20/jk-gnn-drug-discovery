@@ -17,7 +17,6 @@
 
 ---
 
-### 🧬 Graph Representation Learning for Molecular Property Prediction  
 ### 🧠 BBB Penetration • Drug-Likeness • Molecular AI
 
 </div>
